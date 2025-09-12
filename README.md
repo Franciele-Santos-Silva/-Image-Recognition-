@@ -6,7 +6,7 @@ Um classificador pré-treinado (Haar Cascade) é usado para identificar rostos e
 ## Demonstração
 
 O programa abre a webcam e exibe a imagem em tempo real.  
-Quando um rosto é detectado, um **retângulo azul** é desenhado ao redor dele.  
+Quando um rosto é detectado, um retângulo azul é desenhado ao redor dele.  
 
 Para encerrar o programa, basta pressionar a tecla **`f`**.
 
@@ -16,15 +16,17 @@ Para encerrar o programa, basta pressionar a tecla **`f`**.
 - [Python 3](https://www.python.org/)
 - [OpenCV](https://opencv.org/)
 
-## Instalação
+## Como executar o projeto
 
-Clone este repositório:
+1. Clone este repositório:
 
 ```bash
 git clone https://github.com/Franciele-Santos/-Image-Recognition-.git
 cd -Image-Recognition-```
 
-Crie um ambiente virtual:
+
+
+2. Crie um ambiente virtual:
 
 python -m venv venv
 
