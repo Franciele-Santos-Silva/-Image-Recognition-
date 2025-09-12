@@ -18,31 +18,29 @@ Para encerrar o programa, basta pressionar a tecla **`f`**.
 
 ## Como executar o projeto
 
-1. Clone este repositório:
+### 1. Clone este repositório
 
 ```bash
 git clone https://github.com/Franciele-Santos/-Image-Recognition-.git
 cd -Image-Recognition-```
 
 
-
 2. Crie um ambiente virtual:
 
-python -m venv venv
+```python -m venv venv```
 
-Ative o ambiente virtual:
+3. Ative o ambiente virtual:
 
-venv\Scripts\activate 
-source venv/bin/activate 
+```venv\Scripts\activate 
+source venv/bin/activate```
 
-Instale as dependencias:
+4. Instale as dependencias:
 
-pip install opencv-python
+```pip install opencv-python```
 
-Como executar:
+5. Como executar:
 
-python imagem.py
-
+```python imagem.py```
 
 
 
