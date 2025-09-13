@@ -1,4 +1,4 @@
-# Detecção de Rostos com OpenCV
+# Detecção de Rostos
 
 Este projeto utiliza Python e OpenCV para detectar rostos em tempo real através da webcam.  
 Um classificador pré-treinado (Haar Cascade) é usado para identificar rostos e desenhar retângulos ao redor deles.
