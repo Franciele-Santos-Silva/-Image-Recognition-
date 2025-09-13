@@ -27,20 +27,20 @@ cd -Image-Recognition-```
 
 2. Crie um ambiente virtual:
 
-```python -m venv venv```
+python -m venv venv
 
 3. Ative o ambiente virtual:
 
-```venv\Scripts\activate 
-source venv/bin/activate```
+venv\Scripts\activate 
+source venv/bin/activat
 
 4. Instale as dependencias:
 
-```pip install opencv-python```
+pip install opencv-python
 
 5. Como executar:
 
-```python imagem.py```
+python imagem.py
 
 
 
