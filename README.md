@@ -22,7 +22,7 @@ Para encerrar o programa, basta pressionar a tecla **`f`**.
 
 ```bash
 git clone https://github.com/Franciele-Santos/-Image-Recognition-.git
-cd -Image-Recognition-```
+cd -Image-Recognition-
 
 
 
