@@ -18,13 +18,9 @@ Para encerrar o programa, basta pressionar a tecla **`f`**.
 
 ## Como executar o projeto
 
-### 1. Clone este repositório
+## 1. Clone este repositório
 
 ```bash
-git clone https://github.com/Franciele-Santos/-Image-Recognition-.git
-cd -Image-Recognition-
-
-
-
-
-
+git clone https://github.com/Franciele-Santos-Silva/-Image-Recognition-.git
+cd "-Image-Recognition-"
+```
